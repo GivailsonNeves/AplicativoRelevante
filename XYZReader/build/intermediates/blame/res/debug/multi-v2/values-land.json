@@ -4,6 +4,25 @@
             "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.0.aar\\d2faa403cd6852fdf7d67002ad5b0ed1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "642",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "819"
+                    }
+                },
+                {
                     "source": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
                     "from": {
                         "startLines": "3,2",
@@ -21,13 +40,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\1f423644d62ddb3db0d24171166a4a1b\\res\\values-land\\values.xml",
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "4,7,10,11,14,17,18",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "276,560,863,933,1225,1520,1591",
+                        "startOffsets": "291,590,908,978,1285,1595,1666",
                         "endColumns": "61,71,69,69,63,70,67",
-                        "endOffsets": "333,627,928,998,1284,1586,1654"
+                        "endOffsets": "348,657,973,1043,1344,1661,1729"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8",

@@ -4,13 +4,13 @@
             "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\1f423644d62ddb3db0d24171166a4a1b\\res\\values-large-v4\\values.xml",
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-large\\values-large.xml",
                     "from": {
                         "startLines": "4,7,8,11,12,13,14,15,16,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "277,562,634,916,980,1047,1114,1180,1246,1529,1633",
+                        "startOffsets": "292,592,664,961,1025,1092,1159,1225,1291,1589,1693",
                         "endColumns": "61,71,58,63,66,66,65,65,54,103,115",
-                        "endOffsets": "334,629,688,975,1042,1109,1175,1241,1296,1628,1744"
+                        "endOffsets": "349,659,718,1020,1087,1154,1220,1286,1341,1688,1804"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",

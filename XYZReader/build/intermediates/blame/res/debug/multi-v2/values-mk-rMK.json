@@ -4,20 +4,20 @@
             "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\1f423644d62ddb3db0d24171166a4a1b\\res\\values-mk-rMK\\values.xml",
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "280,388,511,615,723,809,914,1033,1139,1246,1347,1454,1565,1669",
-                        "endColumns": "107,122,103,107,85,104,118,105,106,100,106,110,103,97",
-                        "endOffsets": "383,506,610,718,804,909,1028,1134,1241,1342,1449,1560,1664,1762"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,403,507,615,701,806,925,1031,1138,1239,1346,1457",
+                        "endColumns": "107,103,107,85,104,118,105,106,100,106,110,103",
+                        "endOffsets": "398,502,610,696,801,920,1026,1133,1234,1341,1452,1556"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,163,286,390,498,584,689,808,914,1021,1122,1229,1340,1444",
-                        "endColumns": "107,122,103,107,85,104,118,105,106,100,106,110,103,97",
-                        "endOffsets": "158,281,385,493,579,684,803,909,1016,1117,1224,1335,1439,1537"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,163,267,375,461,566,685,791,898,999,1106,1217",
+                        "endColumns": "107,103,107,85,104,118,105,106,100,106,110,103",
+                        "endOffsets": "158,262,370,456,561,680,786,893,994,1101,1212,1316"
                     }
                 }
             ]

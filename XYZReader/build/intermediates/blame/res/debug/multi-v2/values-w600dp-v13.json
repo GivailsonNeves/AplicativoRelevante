@@ -4,13 +4,13 @@
             "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\1f423644d62ddb3db0d24171166a4a1b\\res\\values-w600dp-v13\\values.xml",
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-w600dp\\values-w600dp.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",
-                        "startOffsets": "279,343",
+                        "startOffsets": "294,358",
                         "endColumns": "63,54",
-                        "endOffsets": "338,393"
+                        "endOffsets": "353,408"
                     },
                     "to": {
                         "startLines": "2,3",

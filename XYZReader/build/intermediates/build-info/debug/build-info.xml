@@ -5,32 +5,31 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1549471296288"
+    timestamp="1549485794722"
     token="3000082574484105349"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="240" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="16" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
+        location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\outputs\apk\debug\XYZReader-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1549467420874"
+        timestamp="1549485413759"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -48,31 +47,38 @@
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\outputs\apk\debug\XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\outputs\apk\debug\XYZReader-debug.apk"
-            type="SPLIT_MAIN" />
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1549467948724"
-        verifier="R_CLASS_CHANGE" >
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1549485544080"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
         <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
@@ -82,20 +88,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1549471220966"
+        timestamp="1549485794722"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\outputs\apk\debug\XYZReader-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1549471296288"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\Udacity\Projetos\AplicativoRelevante\XYZReader\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
     </build>
 
 </instant-run>
