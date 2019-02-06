@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/givasneves/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "source": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\src\\main\\res\\values-sw600dp-land\\macro_layout.xml",
                     "from": {
                         "startLines": "2,5,4",
                         "startColumns": "4,4,4",
-                        "startOffsets": "36,133,81",
+                        "startOffsets": "38,138,85",
                         "endColumns": "43,54,51",
-                        "endOffsets": "75,183,128"
+                        "endOffsets": "77,188,132"
                     },
                     "to": {
                         "startLines": "2,3,4",

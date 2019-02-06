@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "/Users/givasneves/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/df9f6f27286ff738a1d2c291204b2327/res/values-v11/values.xml",
+                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\1f423644d62ddb3db0d24171166a4a1b\\res\\values-v11\\values.xml",
                     "from": {
                         "startLines": "4,10,16,22,28,34,42,48,54,60,66,67,68,69,182,184,186,193,243,293,344",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

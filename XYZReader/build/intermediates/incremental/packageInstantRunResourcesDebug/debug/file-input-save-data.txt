@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Sun Feb 03 11:47:58 BRST 2019
+#Wed Feb 06 14:40:22 BRST 2019
 0.baseType=DIRECTORY
-0.base=/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/assets/debug
+0.base=D\:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\assets\\debug
 0.path=Rosario-Regular.ttf
 0.set=ASSET
 count=1
