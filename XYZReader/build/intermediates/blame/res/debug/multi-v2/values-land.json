@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.0.aar\\d2faa403cd6852fdf7d67002ad5b0ed1\\res\\values-land\\values-land.xml",
+                    "source": "/Users/givasneves/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/fadc7cb32405a4abbf67a768d0dabfbf/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "4,7,10,11,14,17,18",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "291,590,908,978,1285,1595,1666",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "348,657,973,1043,1344,1661,1729"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,329,393,464",
+                        "endColumns": "61,71,69,69,63,70,67",
+                        "endOffsets": "112,184,254,324,388,459,527"
+                    }
+                },
+                {
+                    "source": "/Users/givasneves/.gradle/caches/transforms-1/files-1.1/design-22.2.0.aar/f033f703a78ca93e709d82ce97831543/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -23,13 +40,13 @@
                     }
                 },
                 {
-                    "source": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\src\\main\\res\\values-land\\macro_layout.xml",
+                    "source": "/Users/givasneves/Udacity/xyzreader/XYZReader/src/main/res/values-land/macro_layout.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",
-                        "startOffsets": "91,38",
+                        "startOffsets": "88,36",
                         "endColumns": "57,51",
-                        "endOffsets": "144,85"
+                        "endOffsets": "141,83"
                     },
                     "to": {
                         "startLines": "9,10",
@@ -37,23 +54,6 @@
                         "startOffsets": "532,590",
                         "endColumns": "57,51",
                         "endOffsets": "585,637"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "4,7,10,11,14,17,18",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "291,590,908,978,1285,1595,1666",
-                        "endColumns": "61,71,69,69,63,70,67",
-                        "endOffsets": "348,657,973,1043,1344,1661,1729"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,259,329,393,464",
-                        "endColumns": "61,71,69,69,63,70,67",
-                        "endOffsets": "112,184,254,324,388,459,527"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\design-22.2.0.aar\\d2faa403cd6852fdf7d67002ad5b0ed1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "source": "/Users/givasneves/.gradle/caches/transforms-1/files-1.1/design-22.2.0.aar/f033f703a78ca93e709d82ce97831543/res/values-sw600dp/values-sw600dp.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,13,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -23,13 +23,30 @@
                     }
                 },
                 {
-                    "source": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "source": "/Users/givasneves/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
+                    "from": {
+                        "startLines": "7,3,4,6,5,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "325,88,143,259,200,36",
+                        "endColumns": "56,54,56,65,58,51",
+                        "endOffsets": "377,138,195,320,254,83"
+                    },
+                    "to": {
+                        "startLines": "10,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "617,727,782,839,905,964",
+                        "endColumns": "56,54,56,65,58,51",
+                        "endOffsets": "669,777,834,900,959,1011"
+                    }
+                },
+                {
+                    "source": "/Users/givasneves/Udacity/xyzreader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "from": {
                         "startLines": "3,2,5,4",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "93,38,243,147",
+                        "startOffsets": "90,36,238,143",
                         "endColumns": "52,53,41,94",
-                        "endOffsets": "141,87,280,237"
+                        "endOffsets": "138,85,275,233"
                     },
                     "to": {
                         "startLines": "11,17,18,26",
@@ -40,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\givailsonneves\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.2.0.aar\\230803270e638f735455c1a3dacad5d5\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "source": "/Users/givasneves/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/fadc7cb32405a4abbf67a768d0dabfbf/res/values-sw600dp/values-sw600dp.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,11,14,15,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -54,23 +71,6 @@
                         "startOffsets": "55,124,194,264,343,419,478,549,1639",
                         "endColumns": "68,69,69,78,75,58,70,67,54",
                         "endOffsets": "119,189,259,338,414,473,544,612,1689"
-                    }
-                },
-                {
-                    "source": "D:\\Udacity\\Projetos\\AplicativoRelevante\\XYZReader\\src\\main\\res\\values-sw600dp\\macro_layout.xml",
-                    "from": {
-                        "startLines": "7,3,4,6,5,2",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "332,91,147,265,205,38",
-                        "endColumns": "56,54,56,65,58,51",
-                        "endOffsets": "384,141,199,326,259,85"
-                    },
-                    "to": {
-                        "startLines": "10,12,13,14,15,16",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "617,727,782,839,905,964",
-                        "endColumns": "56,54,56,65,58,51",
-                        "endOffsets": "669,777,834,900,959,1011"
                     }
                 }
             ]
