@@ -162,16 +162,8 @@ public class ArticleListActivity extends ActionBarActivity implements AppBarLayo
                 @Override
                 public void onClick(View view) {
 
-                    String animationName = ViewCompat.getTransitionName(vh.thumbnailView);
-                    ActivityOptionsCompat options = ActivityOptionsCompat
-                            .makeSceneTransitionAnimation(
-                                    ArticleListActivity.this,
-                                    vh.thumbnailView,
-                                    animationName
-                            );
-                    startActivity(new Intent(Intent.ACTION_VIEW,
-                            ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))),
-                            options.toBundle());
+                startActivity(new Intent(Intent.ACTION_VIEW,
+                    ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                 }
             });
             return vh;

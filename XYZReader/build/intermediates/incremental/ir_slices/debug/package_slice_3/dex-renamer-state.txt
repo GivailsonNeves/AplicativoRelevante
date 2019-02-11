@@ -1,4 +1,0 @@
-#Thu Feb 07 22:38:45 BRST 2019
-base.0=/Users/givasneves/Udacity/xyzreader/XYZReader/build/intermediates/transforms/dexMerger/debug/3
-path.0=classes.dex
-renamed.0=classes.dex
