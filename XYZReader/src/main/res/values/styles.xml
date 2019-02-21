@@ -17,14 +17,20 @@
 
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar"></style>
-
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor" tools:targetApi="lollipop">@color/primary</item>
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="actionBarPopupTheme">@style/ActionbarPopupTheme</item>
+        <item name="android:actionBarStyle">@style/ActionbarStyle</item>
     </style>
 
-    <style name="Theme.NavBar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
-        <item name="android:background">@color/primary</item>
+    <style name="ActionbarPopupTheme" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="android:background">@color/primary_dark</item>
+    </style>
+
+    <style name="ActionbarStyle" parent="@style/Theme.AppCompat.Light">
+        <item name="android:background">@color/primary_dark</item>
+        <item name="android:actionModeBackground">@color/primary_dark</item>
     </style>
 
 </resources>

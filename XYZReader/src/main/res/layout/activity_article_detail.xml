@@ -8,8 +8,6 @@
         android:id="@+id/toolbar_inner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/primary_dark"
-        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
         android:fitsSystemWindows="true"
         android:elevation="4dp"/>
 
