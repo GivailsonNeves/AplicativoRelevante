@@ -21,11 +21,12 @@
         <item name="colorPrimary">@color/primary</item>
         <item name="colorAccent">@color/accent</item>
         <item name="actionBarPopupTheme">@style/ActionbarPopupTheme</item>
-        <item name="android:actionBarStyle">@style/ActionbarStyle</item>
     </style>
 
     <style name="ActionbarPopupTheme" parent="@style/ThemeOverlay.AppCompat.Light">
         <item name="android:background">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@color/title_color</item>
+        <item name="colorControlNormal">@color/icons</item>
     </style>
 
     <style name="ActionbarStyle" parent="@style/Theme.AppCompat.Light">
